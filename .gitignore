@@ -8,3 +8,11 @@ __pycache__/
 
 ### VSCode ###
 .vscode/
+
+####################
+### Page Scripts ###
+####################
+
+### NodeJS ###
+node_modules/
+package-lock.json
