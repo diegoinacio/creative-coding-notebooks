@@ -9,10 +9,13 @@ __pycache__/
 ### VSCode ###
 .vscode/
 
-####################
-### Page Scripts ###
-####################
+###################
+### Page Assets ###
+###################
 
 ### NodeJS ###
 node_modules/
 package-lock.json
+
+# live sass compiler
+*.css.map
