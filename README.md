@@ -1,6 +1,6 @@
 # Creative Coding Notebooks
 
-[![Creative Coding Notebooks](social-preview.png)](https://diegoinacio.github.io/creative-coding-notebooks/)
+[![Creative Coding Notebooks](docs/assets/images/social-preview.png)](https://diegoinacio.github.io/creative-coding-notebooks/)
 
 This is an `authorial collection` of fundamental _python recipes_ in notebook format. I started this project with the sole purpose of helping people to understand **Creative Coding** and **Recreational Programming** concepts as clearly and succinctly as I could.
 
