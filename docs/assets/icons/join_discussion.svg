@@ -2,7 +2,7 @@
   <defs>
     <style>
       .bg {
-        fill: black;
+        fill: hsl(261, 70%, 50%);
         stroke: gray;
         stroke-width: 0.03em;
         stroke-dasharray: 2px;

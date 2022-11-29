@@ -28,7 +28,6 @@
       .noun {
         font-weight: 700;
         text-anchor: left;
-        fill: hsl(261, 70%, 50%);
       }
     </style>
   </defs>
